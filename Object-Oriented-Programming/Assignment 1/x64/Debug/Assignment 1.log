@@ -1,0 +1,8 @@
+﻿  a1ms3.c
+  clinic.c
+  core.c
+  Generating Code...
+C:\SENECA\SEM 1\IPC 144\WEEK 10 ASSIGNMENT 1\Assignment 1\core.c(170,9): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\SENECA\SEM 1\IPC 144\WEEK 10 ASSIGNMENT 1\Assignment 1\core.c(215,9): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\SENECA\SEM 1\IPC 144\WEEK 10 ASSIGNMENT 1\Assignment 1\core.c(254,9): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Assignment 1.vcxproj -> C:\SENECA\SEM 1\IPC 144\WEEK 10 ASSIGNMENT 1\Assignment 1\x64\Debug\Assignment 1.exe
